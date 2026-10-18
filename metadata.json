@@ -1,0 +1,6 @@
+{
+  "name": "OmniPOS",
+  "description": "Smart retail point-of-sale system with offline terminal checkout, online cloud sync, manager signup, and manager-controlled worker provisioning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
